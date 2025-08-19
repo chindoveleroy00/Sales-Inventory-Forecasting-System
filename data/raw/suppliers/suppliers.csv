@@ -1,0 +1,16 @@
+supplier_id,name,contact,lead_time_days,min_order_qty,primary_products,location
+SUP001,National Foods Zimbabwe,+263 242 886 061,3,50,"['MEALIE_2KG', 'MEALIE_10KG', 'RICE_5KG', 'BISCUITS_200G']",Harare
+SUP002,United Refineries Limited,+263 242 621 881,2,24,['COOKOIL_2LT'],Harare
+SUP003,Delta Corporation Limited,+263 242 486 981,1,20,"['COKE_500ML', 'MAZOE_1LT']",Harare
+SUP004,Unilever Zimbabwe,+263 242 707 636,2,25,"['SOAP_100G', 'DETERGENT_500G', 'TOOTHPASTE_100G']",Harare
+SUP005,ZESA Holdings,+263 242 703 101,0,1,['ELECTRICITY_10'],Harare
+SUP006,Econet Wireless Zimbabwe,+263 242 700 000,0,1,['AIRTIME_5'],Harare
+SUP007,Lobels Bread,+263 242 621 773,1,20,['BREAD_LOAF'],Harare
+SUP008,Country Choice Foods,+263 292 446 539,4,30,['SUGAR_2KG'],Bulawayo
+SUP009,Cairns Foods,+263 242 621 454,2,50,"['BEANS_410G', 'PILCHARDS_155G']",Harare
+SUP010,Tanganda Tea Company,+263 272 684 051,3,20,['TEA_250G'],Mutare
+SUP011,Dairibord Zimbabwe,+263 242 700 951,1,24,['MILK_1LT'],Harare
+SUP012,Arenel Private Limited,+263 242 621 987,2,25,['MAPUTI_100G'],Harare
+SUP013,Zimcandles Manufacturing,+263 242 621 234,3,50,['CANDLES_6PK'],Harare
+SUP014,Refined Salt Company,+263 242 621 456,5,100,['SALT_1KG'],Harare
+SUP015,Johnson & Johnson Zimbabwe,+263 242 621 789,7,20,['SANITARY_10PK'],Harare

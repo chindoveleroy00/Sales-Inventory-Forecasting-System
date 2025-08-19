@@ -1,0 +1,33 @@
+# Core Data Science
+pandas
+numpy
+scipy
+
+# Forecasting
+prophet
+statsmodels
+scikit-learn
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+python-dotenv
+pymysql
+mysql-connector-python
+yaml
+
+
+# Visualization
+plotly
+streamlit
+matplotlib
+
+# Utilities
+python-dateutil
+pytest
+faker
+tqdm
+# API (Optional)
+fastapi
+uvicorn

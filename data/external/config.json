@@ -1,0 +1,399 @@
+{
+  "start_date": "2025-01-01",
+  "end_date": "2025-12-31",
+  "output_dir": "data",
+  "seed": 2025,
+  "currency": "USD",
+  "products": [
+    {
+      "sku_id": "MEALIE_2KG",
+      "sku_name": "Mealie Meal 2KG",
+      "base_price": 2.0,
+      "category": "Staple",
+      "expiry_days": 180,
+      "seasonality": {
+        "peak_months": [
+          1,
+          5,
+          9
+        ],
+        "peak_boost": 1.5
+      }
+    },
+    {
+      "sku_id": "MEALIE_10KG",
+      "sku_name": "Mealie Meal 10KG",
+      "base_price": 8.0,
+      "category": "Staple",
+      "expiry_days": 180,
+      "seasonality": {
+        "peak_months": [
+          1,
+          5,
+          9
+        ],
+        "peak_boost": 1.6
+      }
+    },
+    {
+      "sku_id": "RICE_5KG",
+      "sku_name": "Rice 5KG",
+      "base_price": 7.5,
+      "category": "Staple",
+      "expiry_days": 365,
+      "seasonality": {
+        "peak_months": [],
+        "peak_boost": 1.0
+      }
+    },
+    {
+      "sku_id": "COOKOIL_2LT",
+      "sku_name": "Cooking Oil 2L",
+      "base_price": 3.5,
+      "category": "Staple",
+      "expiry_days": 540,
+      "seasonality": {
+        "peak_months": [
+          11,
+          12
+        ],
+        "peak_boost": 1.4
+      }
+    },
+    {
+      "sku_id": "SUGAR_2KG",
+      "sku_name": "Sugar 2KG",
+      "base_price": 2.2,
+      "category": "Staple",
+      "expiry_days": null,
+      "seasonality": {
+        "peak_months": [
+          6,
+          7
+        ],
+        "peak_boost": 1.3
+      }
+    },
+    {
+      "sku_id": "SALT_1KG",
+      "sku_name": "Salt 1KG",
+      "base_price": 1.0,
+      "category": "Staple",
+      "expiry_days": null,
+      "seasonality": {
+        "peak_months": [],
+        "peak_boost": 1.0
+      }
+    },
+    {
+      "sku_id": "COKE_500ML",
+      "sku_name": "Coke 500ml",
+      "base_price": 1.0,
+      "category": "Beverage",
+      "expiry_days": 180,
+      "seasonality": {
+        "peak_months": [
+          11,
+          12
+        ],
+        "peak_boost": 1.8
+      }
+    },
+    {
+      "sku_id": "MAZOE_1LT",
+      "sku_name": "Mazoe Orange 1L",
+      "base_price": 2.5,
+      "category": "Beverage",
+      "expiry_days": 270,
+      "seasonality": {
+        "peak_months": [
+          10,
+          11,
+          12
+        ],
+        "peak_boost": 1.7
+      }
+    },
+    {
+      "sku_id": "TEA_250G",
+      "sku_name": "Tea Leaves 250g",
+      "base_price": 3.0,
+      "category": "Beverage",
+      "expiry_days": 365,
+      "seasonality": {
+        "peak_months": [
+          6,
+          7
+        ],
+        "peak_boost": 1.4
+      }
+    },
+    {
+      "sku_id": "MILK_1LT",
+      "sku_name": "Long-life Milk 1L",
+      "base_price": 1.8,
+      "category": "Beverage",
+      "expiry_days": 180,
+      "seasonality": {
+        "peak_months": [],
+        "peak_boost": 1.0
+      }
+    },
+    {
+      "sku_id": "SOAP_100G",
+      "sku_name": "Bathing Soap 100g",
+      "base_price": 0.8,
+      "category": "Household",
+      "expiry_days": null,
+      "seasonality": {
+        "peak_months": [],
+        "peak_boost": 1.0
+      }
+    },
+    {
+      "sku_id": "DETERGENT_500G",
+      "sku_name": "Washing Powder 500g",
+      "base_price": 2.5,
+      "category": "Household",
+      "expiry_days": null,
+      "seasonality": {
+        "peak_months": [],
+        "peak_boost": 1.0
+      }
+    },
+    {
+      "sku_id": "CANDLES_6PK",
+      "sku_name": "Candles 6-pack",
+      "base_price": 1.5,
+      "category": "Household",
+      "expiry_days": null,
+      "seasonality": {
+        "peak_months": [
+          5,
+          6,
+          7
+        ],
+        "peak_boost": 1.5
+      }
+    },
+    {
+      "sku_id": "TOOTHPASTE_100G",
+      "sku_name": "Toothpaste 100g",
+      "base_price": 1.8,
+      "category": "Personal Care",
+      "expiry_days": 730,
+      "seasonality": {
+        "peak_months": [],
+        "peak_boost": 1.0
+      }
+    },
+    {
+      "sku_id": "SANITARY_10PK",
+      "sku_name": "Sanitary Pads 10-pack",
+      "base_price": 3.5,
+      "category": "Personal Care",
+      "expiry_days": 1095,
+      "seasonality": {
+        "peak_months": [],
+        "peak_boost": 1.0
+      }
+    },
+    {
+      "sku_id": "BISCUITS_200G",
+      "sku_name": "Biscuits 200g",
+      "base_price": 1.2,
+      "category": "Snack",
+      "expiry_days": 180,
+      "seasonality": {
+        "peak_months": [
+          11,
+          12
+        ],
+        "peak_boost": 1.6
+      }
+    },
+    {
+      "sku_id": "MAPUTI_100G",
+      "sku_name": "Maputi 100g",
+      "base_price": 0.5,
+      "category": "Snack",
+      "expiry_days": 90,
+      "seasonality": {
+        "peak_months": [],
+        "peak_boost": 1.0
+      }
+    },
+    {
+      "sku_id": "BREAD_LOAF",
+      "sku_name": "Bread Loaf",
+      "base_price": 1.0,
+      "category": "Bakery",
+      "expiry_days": 3,
+      "seasonality": {
+        "peak_months": [],
+        "peak_boost": 1.0
+      }
+    },
+    {
+      "sku_id": "BEANS_410G",
+      "sku_name": "Baked Beans 410g",
+      "base_price": 1.5,
+      "category": "Canned Food",
+      "expiry_days": 730,
+      "seasonality": {
+        "peak_months": [],
+        "peak_boost": 1.0
+      }
+    },
+    {
+      "sku_id": "PILCHARDS_155G",
+      "sku_name": "Pilchards 155g",
+      "base_price": 1.8,
+      "category": "Canned Food",
+      "expiry_days": 730,
+      "seasonality": {
+        "peak_months": [],
+        "peak_boost": 1.0
+      }
+    },
+    {
+      "sku_id": "AIRTIME_5",
+      "sku_name": "Airtime $5",
+      "base_price": 5.0,
+      "category": "Utility",
+      "expiry_days": null,
+      "seasonality": {
+        "peak_months": [],
+        "peak_boost": 1.0
+      }
+    },
+    {
+      "sku_id": "ELECTRICITY_10",
+      "sku_name": "Electricity $10",
+      "base_price": 10.0,
+      "category": "Utility",
+      "expiry_days": null,
+      "seasonality": {
+        "peak_months": [
+          5,
+          6,
+          7
+        ],
+        "peak_boost": 1.3
+      }
+    }
+  ],
+  "events": [
+    {
+      "date": "2025-01-01",
+      "name": "New Year",
+      "impact": 1.5
+    },
+    {
+      "date": "2025-04-18",
+      "name": "Independence Day",
+      "impact": 1.8
+    },
+    {
+      "date": "2025-05-25",
+      "name": "Africa Day",
+      "impact": 1.3
+    },
+    {
+      "date": "2025-08-12",
+      "name": "Heroes' Day",
+      "impact": 1.2
+    },
+    {
+      "date": "2025-12-22",
+      "name": "Unity Day",
+      "impact": 1.4
+    },
+    {
+      "date": "2025-12-25",
+      "name": "Christmas",
+      "impact": 2.0
+    },
+    {
+      "date": "2025-01-01",
+      "name": "Payday",
+      "impact": 1.6
+    },
+    {
+      "date": "2025-01-31",
+      "name": "Payday",
+      "impact": 1.6
+    },
+    {
+      "date": "2025-03-02",
+      "name": "Payday",
+      "impact": 1.6
+    },
+    {
+      "date": "2025-04-01",
+      "name": "Payday",
+      "impact": 1.6
+    },
+    {
+      "date": "2025-05-01",
+      "name": "Payday",
+      "impact": 1.6
+    },
+    {
+      "date": "2025-05-31",
+      "name": "Payday",
+      "impact": 1.6
+    },
+    {
+      "date": "2025-06-30",
+      "name": "Payday",
+      "impact": 1.6
+    },
+    {
+      "date": "2025-07-30",
+      "name": "Payday",
+      "impact": 1.6
+    },
+    {
+      "date": "2025-08-29",
+      "name": "Payday",
+      "impact": 1.6
+    },
+    {
+      "date": "2025-09-28",
+      "name": "Payday",
+      "impact": 1.6
+    },
+    {
+      "date": "2025-10-28",
+      "name": "Payday",
+      "impact": 1.6
+    },
+    {
+      "date": "2025-11-27",
+      "name": "Payday",
+      "impact": 1.6
+    },
+    {
+      "date": "2025-12-27",
+      "name": "Payday",
+      "impact": 1.6
+    }
+  ],
+  "economic_factors": {
+    "inflation_rate": 0.02,
+    "payday_cycle": 30,
+    "payday_impact": 1.6,
+    "weekend_boost": 1.4,
+    "base_demand": {
+      "Staple": 15,
+      "Beverage": 20,
+      "Household": 8,
+      "Personal Care": 5,
+      "Snack": 12,
+      "Bakery": 25,
+      "Canned Food": 6,
+      "Utility": 30
+    }
+  }
+}

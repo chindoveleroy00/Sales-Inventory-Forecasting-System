@@ -1,0 +1,62 @@
+[
+  {
+    "period": "2024-01",
+    "exchange_rate": 12000.00
+  },
+  {
+    "period": "2024-02",
+    "exchange_rate": 15000.00
+  },
+  {
+    "period": "2024-03",
+    "exchange_rate": 20000.00
+  },
+  {
+    "period": "2024-04",
+    "exchange_rate": 25000.00
+  },
+  {
+    "period": "2024-05",
+    "exchange_rate": 30000.00
+  },
+  {
+    "period": "2024-06",
+    "exchange_rate": 35000.00
+  },
+  {
+    "period": "2024-07",
+    "exchange_rate": 40000.00
+  },
+  {
+    "period": "2024-08",
+    "exchange_rate": 45000.00
+  },
+  {
+    "period": "2024-09",
+    "exchange_rate": 50000.00
+  },
+  {
+    "period": "2024-10",
+    "exchange_rate": 55000.00
+  },
+  {
+    "period": "2024-11",
+    "exchange_rate": 60000.00
+  },
+  {
+    "period": "2024-12",
+    "exchange_rate": 65000.00
+  },
+  {
+    "period": "2025-01",
+    "exchange_rate": 70000.00
+  },
+  {
+    "period": "2025-02",
+    "exchange_rate": 75000.00
+  },
+  {
+    "period": "2025-03",
+    "exchange_rate": 80000.00
+  }
+]

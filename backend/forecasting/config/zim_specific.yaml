@@ -1,0 +1,18 @@
+# backend/forecasting/config/zim_specific.yaml
+critical_skus:
+  - MEALIE_2KG
+  - COOKOIL_2LT
+  - BREAD_LOAF
+  - SALT_1KG
+
+seasonality:
+  payday_weeks: [1, 3]  # 1st and 3rd weeks of month
+  school_terms:
+    - start: '2025-01-15'
+      end: '2025-04-05'
+    - start: '2025-05-06'
+      end: '2025-08-09'
+
+holiday_effects:
+  new_year: 1.5    # Demand multiplier
+  independence: 2.0

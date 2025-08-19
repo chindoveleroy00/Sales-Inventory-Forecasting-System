@@ -1,0 +1,5 @@
+sqlite:
+  database: "sifs.db"  # SQLite database file name
+  timeout: 30          # Connection timeout in seconds
+  detect_types: 1      # Detect column types
+  isolation_level: "IMMEDIATE"  # Transaction isolation level

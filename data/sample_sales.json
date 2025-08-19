@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "currency": "ZWL",
+        "default_category": "grocery",
+        "sample_period": "2024-01-01 to 2024-06-30"
+    },
+    "records": [
+        {
+            "date": "2024-01-01",
+            "sku": "COOKOIL_2LT",
+            "quantity": 15,
+            "price": 4500.0,
+            "category": "Non-Perishable",
+            "promotion_flag": false
+        }
+    ]
+}
